@@ -3,7 +3,7 @@ https://drive.google.com/file/d/1LnTPRHS53_D1vomTZRWZY5-ky2YiS1Uw/view?usp=drive
 # Crack Win 10
 https://drive.google.com/drive/folders/1K7G_r65a6a_PIC276YgP8UAhLJrGkEH4?usp=drive_link
 # Kích hoạt bản quyền Win, Office PowerShell (AnonyViet)
-irm https://massgrave.dev/get | iex
+irm https://massgrave.dev/get | iex </br>
 https://anonyviet.com/kich-hoat-ban-quyen-windows-va-office/
 # Active Office 365 (AnonyViet)
 https://anonyviet.com/cach-active-microsoft-365-mien-phi/
