@@ -26,7 +26,7 @@ explorer "https://anonyviet.com"&goto halt
 echo.&echo ============================================================================&echo Xin loi ! Phien ban cua ban khong duoc ho tro.&echo Vui long cai dat phien ban moi nhat tai day : bit.ly/getmsps
 :halt
 pause
-
+(Link full: https://anonyviet.com/kich-hoat-bo-microsoft-office-2016/)
 # Photoshop 2021
 https://drive.google.com/file/d/1JVXirrqz1xRWdxXfE12FFLuDkZNUDAT-/view?usp=drive_link
 # Jdbc 11.2
