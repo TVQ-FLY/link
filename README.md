@@ -20,6 +20,6 @@ https://drive.google.com/file/d/1JVXirrqz1xRWdxXfE12FFLuDkZNUDAT-/view?usp=drive
 https://drive.google.com/drive/folders/1c9Po0o-BtOtwsRdpghJ1N7GHIcqMDoBy?usp=drive_link
 # Boson Netsim
 https://drive.google.com/file/d/1foLVAMw-L9va6Urxo2zSQKUKX6dlUdIz/view?usp=drive_link
-# Teamplate Powerpoint
+# Teamplate Powerpoint 
 https://husteduvn-my.sharepoint.com/personal/dai_nd191725_sis_hust_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdai%5Fnd191725%5Fsis%5Fhust%5Fedu%5Fvn%2FDocuments%2FPPT%20template&ga=1
-
+(Link Gốc: https://anonyviet.com/tai-ngay-36gb-template-powerpoint-chuan-bi-cho-nam-hoc-moi/?fbclid=IwAR1rvA3YEzTj8dVCNbKO6ZQ-z5EPL2zN66nGVjGJKt_ACe0Axgf0mZfAcL8)
