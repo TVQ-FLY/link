@@ -5,6 +5,8 @@ https://drive.google.com/drive/folders/1K7G_r65a6a_PIC276YgP8UAhLJrGkEH4?usp=dri
 # Kích hoạt bản quyền Win, Office PowerShell (AnonyViet)
 irm https://massgrave.dev/get | iex </br>
 https://anonyviet.com/kich-hoat-ban-quyen-windows-va-office/
+# Full Office (ak21-22)
+https://21ak22.com/office-ung-dung-van-phong-word-excel.html
 # Active Office 365 (AnonyViet)
 https://anonyviet.com/cach-active-microsoft-365-mien-phi/
 # Office 2024 full key Preview (AnonyViet)
