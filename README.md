@@ -2,7 +2,7 @@
 https://drive.google.com/file/d/1LnTPRHS53_D1vomTZRWZY5-ky2YiS1Uw/view?usp=drive_link
 # Crack Win 10
 https://drive.google.com/drive/folders/1K7G_r65a6a_PIC276YgP8UAhLJrGkEH4?usp=drive_link
-# Kích hoạt bản quyền Win, Office PowerShell (AnonyViet)
+# Crack Win, Office PowerShell (AnonyViet)
 irm https://massgrave.dev/get | iex </br>
 https://anonyviet.com/kich-hoat-ban-quyen-windows-va-office/
 # Full Office (21ak22)
@@ -11,7 +11,7 @@ https://21ak22.com/office-ung-dung-van-phong-word-excel.html
 https://anonyviet.com/cach-active-microsoft-365-mien-phi/
 # Office 2024 full key Preview (AnonyViet)
 https://anonyviet.com/download-office-2024-full-key-ban-preview/
-# Office 2016: (Vào link tải office 2016 - Coppy code lưu file .cmd - chạy file)
+# Office 2016 (AnonyViet)
 https://download.com.vn/download/tai-office-2016-85931 </br>
 https://anonyviet.com/kich-hoat-bo-microsoft-office-2016/
 # Full Adobe
