@@ -27,3 +27,5 @@ https://husteduvn-my.sharepoint.com/personal/dai_nd191725_sis_hust_edu_vn/_layou
 (Link Gốc: https://anonyviet.com/tai-ngay-36gb-template-powerpoint-chuan-bi-cho-nam-hoc-moi/?fbclid=IwAR1rvA3YEzTj8dVCNbKO6ZQ-z5EPL2zN66nGVjGJKt_ACe0Axgf0mZfAcL8)
 # Tdm Gcc Code C - C++
 https://jmeubank.github.io/tdm-gcc/
+# Windows Server 2016
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016
