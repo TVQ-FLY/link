@@ -7,6 +7,8 @@ irm https://massgrave.dev/get | iex </br>
 https://anonyviet.com/kich-hoat-ban-quyen-windows-va-office/
 # Full Office (21ak22)
 https://21ak22.com/office-ung-dung-van-phong-word-excel.html
+# Office 2021 (21ak22)
+https://drive.google.com/drive/folders/1JAGGJ4i04VZMyWe4oReLOBs6vnK_PHjp?usp=sharing
 # Active Office 365 (AnonyViet)
 https://anonyviet.com/cach-active-microsoft-365-mien-phi/
 # Office 2024 full key Preview (AnonyViet)
