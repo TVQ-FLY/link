@@ -20,6 +20,8 @@ https://download.com.vn/download/tai-office-2016-85931 </br>
 https://anonyviet.com/kich-hoat-bo-microsoft-office-2016/
 # Full Adobe
 https://www.fshare.vn/folder/4IXYPCA5J4LF?token=1698709091
+# Full Adobe (Tung mu vang)
+https://www.tungmuvang.in/2023/11/chia-se-cho-moi-nguoi-bo-adobe-2024.html?fbclid=IwAR2kylhxZ-YwWnoQyBSeEFqlRjd3yc_lmkjk0ON5OP_Ltqqbns5HqFGQqXM
 # Photoshop 2021
 https://drive.google.com/file/d/1JVXirrqz1xRWdxXfE12FFLuDkZNUDAT-/view?usp=drive_link
 # Jdbc 11.2
