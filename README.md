@@ -1,4 +1,4 @@
-# Code (https://www.youtube.com/watch?v=0NEqgdMYtRE)
+# Code ĐATN
 https://docs.google.com/spreadsheets/d/16sOfHc9ipzwhCsmG8KYu6XT0MrudYjaBrA2id5dL5Gs/edit#gid=0
 # Office 365
 https://drive.google.com/file/d/1LnTPRHS53_D1vomTZRWZY5-ky2YiS1Uw/view?usp=drive_link
