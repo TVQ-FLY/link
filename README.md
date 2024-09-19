@@ -2,8 +2,6 @@
 https://docs.google.com/spreadsheets/d/16sOfHc9ipzwhCsmG8KYu6XT0MrudYjaBrA2id5dL5Gs/edit#gid=0
 # Office 365
 https://drive.google.com/file/d/1LnTPRHS53_D1vomTZRWZY5-ky2YiS1Uw/view?usp=drive_link
-# Office 2021
-https://drive.google.com/drive/folders/1JAGGJ4i04VZMyWe4oReLOBs6vnK_PHjp?usp=drive_link
 # Crack Win
 https://drive.google.com/drive/folders/1IxWCO4PRATmUDeN44fjAVMoFNwtB9r88?usp=sharing
 # Crack Win, Office PowerShell (AnonyViet)
